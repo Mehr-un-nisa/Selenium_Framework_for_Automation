@@ -1,4 +1,9 @@
 # Selenium_Framework_for_Automation
 <li> An open source software to automate browsers </li> 
-<li> What is framework? </li>
+<h6> What is framework? </h6>
 <p> Framework is an important part in testing that helps in typing less code. It maintains stability of testing </p>
+<h6> Benefits of automation testing </h6> 
+<li> It saves time and money </li>
+li> The code is reusable </li>
+li> 70 percent faster than manual testing </li>
+li> Efficiency and accuracy </li>
