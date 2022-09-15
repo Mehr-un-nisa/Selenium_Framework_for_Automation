@@ -12,4 +12,4 @@
 <li> RFT - Rational Test professional </li>
 <li> Selenium </li>
 <h6> Why selenium is the best tool for autoamtion? </h6>
-<p> Since other tools reuqire license and are not free </p>
+<p> Since other tools require license and are not free </p>
