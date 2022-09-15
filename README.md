@@ -7,3 +7,7 @@
 <li> The code is reusable </li>
 <li> 70 percent faster than manual testing </li>
 <li> Efficiency and accuracy </li>
+<h6> Automation tools </h6>
+<li> QTP - Quick test professional </li>
+<li> RFT - Rational Test professional </li>
+<li> Selenium </li>
