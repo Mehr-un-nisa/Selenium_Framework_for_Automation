@@ -14,6 +14,6 @@
 <h6> Why selenium is the best tool for autoamtion? </h6>
 <p> Since other tools require license and are not free </p>
 <h6> Prerequisites for selenium </h6>
-<li> Java - Programming language used to write scripts </li
-<li> Eclipse - Environment to compile and run scripts </li
-<li> Selenium - Framework for testing web applications </li
+<li> Java - Programming language used to write scripts </li>
+<li> Eclipse - Environment to compile and run scripts </li>
+<li> Selenium - Framework for testing web applications </li>
