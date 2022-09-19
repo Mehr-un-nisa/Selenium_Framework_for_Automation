@@ -11,7 +11,7 @@
 <li> QTP - Quick test professional </li>
 <li> RFT - Rational Test professional </li>
 <li> Selenium </li>
-<h6> Why selenium is the best tool for autoamtion? </h6>
+<h5> Why selenium is the best tool for autoamtion? </h5>
 <p> Since other tools require license and are not free </p>
 <h6> Prerequisites for selenium </h6>
 <li> Java - Programming language used to write scripts </li>
