@@ -17,3 +17,34 @@
 <li> Java - Programming language used to write scripts </li>
 <li> Eclipse - Environment to compile and run scripts </li>
 <li> Selenium - Framework for testing web applications </li>
+<h2> What is selenium </h2> 
+<p> Selenium is an open source tool that automates web browser. It lets you write down the script and execute it</p>
+
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Difference between Webdriver and RC</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>Web driver</th>
+    <th> RC</th>
+  </tr>
+  <tr>
+    <td>It is object oriented API</td>
+    <td>It is less object oriented API</td>
+  </tr>
+  <tr>
+    <td>Webdriver is faster because it commnuites with browser directly without using any proxy server</td>
+    <td>Webdriver is slower because it commnuites with browser directly by using any proxy server</td>
+  </tr>
+</table>
+
+</body>
+</html>
