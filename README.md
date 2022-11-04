@@ -22,11 +22,6 @@
 
 <!DOCTYPE html>
 <html>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
 <body>
 
 <h2>Difference between Webdriver and RC</h2>
